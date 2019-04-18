@@ -1,9 +1,11 @@
 # 概要
 
 タイトル: Intro to Visualization Tutorial at SciPy Japan
+
 レポジトリ: https://github.com/terapyon/intro-to-visualization-tutorial
 
 SciPy Japan 2019 にて行った、チュートリアルの内容
+
 https://www.scipyjapan2019.scipy.org/talks-and-poster-schedule
 
 
