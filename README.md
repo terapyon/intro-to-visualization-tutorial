@@ -67,6 +67,30 @@ $ source env/bin/activate
 (env) $ jupyter notebook
 ```
 
+# Colaboratory手順
+
+下記の ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) をクリックします。
+
+章-節|タイトル|Open in Colab
+-----|--------|-------------
+1-1  |Pythonの環境と実行方法|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/1-basic-python/1-1-environment.ipynb)
+1-2  |データ型と関数|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/1-basic-python/1-2-types-and-functions.ipynb)
+1-3  |制御構文|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/1-basic-python/1-3-controlflow.ipynb)
+1-4  |ライブラリ|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/1-basic-python/1-4-libraries.ipynb)
+1-5  |演算子|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/1-basic-python/1-5-operator.ipynb)
+1-6  |数値の扱い|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/1-basic-python/1-6-numbers.ipynb)
+2-1  |データの取得方法|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/2-data-handling-and-tools/2-1-getting-data.ipynb)
+2-1  |データの加工|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/2-data-handling-and-tools/2-2-data-handling.ipynb)
+2-3  |データの概要を捉える|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/2-data-handling-and-tools/2-3-summarize.ipynb)
+
+`ファイル` - `ドライブにコピーを保存` を選択します。
+
+![Notebookをドライブにコピー](images/copy_ipynb.png)
+
+Notebookの名前を適宜変更します。
+
+![Notebookの名前を変更](images/change_notebook_name.png)
+
 # ライセンス
 
 MIT License
