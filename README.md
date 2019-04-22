@@ -82,6 +82,14 @@ $ source env/bin/activate
 2-1  |データの取得方法|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/2-data-handling-and-tools/2-1-getting-data.ipynb)
 2-2  |データの加工|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/2-data-handling-and-tools/2-2-data-handling.ipynb)
 2-3  |データの概要を捉える|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/2-data-handling-and-tools/2-3-summarize.ipynb)
+3-1  |可視化ツール|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/3-visualization/3-1-visualization-tools.ipynb)
+3-2  |Matplotlibの基本|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/3-visualization/3-2-Matplotlib-basic.ipynb)
+3-3  |pandasによる可視化|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/3-visualization/3-3-pandas.ipynb)
+3-4  |演習|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/3-visualization/3-4-exercise.ipynb)
+3-5  |演習の解答例|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/3-visualization/3-5-exercise-with-anser.ipynb)
+3-A  |Matplotlibの日本語フォント設定|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/3-visualization/3-A-Matplotlib_font.ipynb)
+3-B  |3-B-気象庁のデータの整形|[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/terapyon/intro-to-visualization-tutorial/blob/master/3-visualization/3-B-handling-weather.ipynb)
+
 
 `ファイル` - `ドライブにコピーを保存` を選択します。
 
