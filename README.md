@@ -1,4 +1,6 @@
-# 概要
+# Intro to Visualization Tutorial at SciPy Japan
+
+## 概要
 
 タイトル: Intro to Visualization Tutorial at SciPy Japan
 
@@ -27,8 +29,7 @@ https://www.scipyjapan2019.scipy.org/talks-and-poster-schedule
   - Pythonでデータ始められるようになる
   - Pythonで可視化の方法を知る
 
-
-# チュートリアルの内容や環境
+## チュートリアルの内容や環境
 
 - 実行環境
   - Jupyter Notebook (Python 3.6 or Python 3.7)
@@ -43,7 +44,12 @@ https://www.scipyjapan2019.scipy.org/talks-and-poster-schedule
   - データの扱いや各種ツールの概要
   - 実データでの可視化
 
-# 事前準備
+## Q&A
+
+- 口頭または [Slido](https://app2.sli.do/event/afwej3wu)
+- 随時質問可
+
+## 事前準備
 
 - ノートパソコン (Windows / macOS / Linux)
   - ChromeまたはFirefoxが動作する
@@ -56,7 +62,7 @@ https://www.scipyjapan2019.scipy.org/talks-and-poster-schedule
 なお、環境準備に不安のある方は、チュートリアル中に利用できるColaboratory(Google)を使って受講が出来るようにしますので、googleアカウント(gmailアカウントなど)を準備し、https://colab.research.google.com にて利用の開始を行ってください。
 
 
-# 環境構築
+## 環境構築
 
 ```
 $ git clone https://github.com/terapyon/intro-to-visualization-tutorial
@@ -67,7 +73,7 @@ $ source env/bin/activate
 (env) $ jupyter notebook
 ```
 
-# Colaboratory手順
+## Colaboratory手順
 
 下記の ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg) をクリックします。
 
@@ -99,7 +105,6 @@ Notebookの名前を適宜変更します。
 
 ![Notebookの名前を変更](images/change_notebook_name.png)
 
-# ライセンス
+## ライセンス
 
 MIT License
-
